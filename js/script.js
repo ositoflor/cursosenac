@@ -10,6 +10,6 @@ function calculaMedia() {
 
 function validaStatus(med){
     if(med < 6) {
-        return " Reprovado!!"
-    } else {return " Aprovado!!"}
+        return " Reprovado Fi de quenga !!!"
+    } else {return " Aprovadooooo ai sim caralhooo"}
 }

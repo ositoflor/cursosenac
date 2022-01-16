@@ -20,7 +20,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     margin-top: 10vh;
-    width: 600px;
+    width: 400px;
     border-radius: 10px;
     text-align: center;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
@@ -50,7 +50,7 @@ label {
 
 input {
     border-bottom: 1px solid #000;
-    width: 50%;
+    width: 60%;
     text-align: center;
     margin: auto;
     font-size: 1rem;
