@@ -10,6 +10,12 @@ function calculaMedia() {
 
 function validaStatus(med){
     if(med < 6) {
-        return " Reprovado Fi de quenga !!!"
-    } else {return " Aprovadooooo ai sim caralhooo"}
+        return " Poxa você não atingiu a média!"
+    } else if(med >= 6 && med < 8) {
+        return " Você foi aprovado !!"
+    } else if(med >= 8 && med < 10) {
+        return " Muito bem, aprovado com uma boa média!!"
+    } else if(med = 10) {
+        return " Incrível, aprovado com nota maxima !!!"
+    }
 }
